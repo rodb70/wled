@@ -31,6 +31,7 @@ wled-update.sh
 /wled00/wled00.ino.cpp
 /wled00/html_*.h
 /wled00/js_*.h
+replace_fs.py
 replace_fs.pybuild/
 wled00.ino.cpp
 esp8266/
