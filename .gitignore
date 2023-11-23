@@ -22,6 +22,8 @@ wled-update.sh
 /wled00/my_config.h
 /wled00/Release
 /wled00/wled00.ino.cpp
+replace_fs.py
+>>>>>>> 32410a0b (dd build to git ignore)
 replace_fs.pybuild/
 wled00.ino.cpp
 esp8266/
