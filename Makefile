@@ -13,7 +13,8 @@ ESPTOOL := $(ESP_ROOT)/tools/esptool/esptool.py
 #FLASH_SPEED := 40m
 #FLASH_MODE := dio
 
-SKETCH := wled00/wled00.ino
+#SKETCH := wled00/wled00.ino
+SKETCH := wled00.ino.cpp
 FS_DIR := wled00/data
 
 EXCLUDE_DIRS := usermods/
